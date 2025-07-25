@@ -128,3 +128,7 @@ Explore data augmentation to enhance robustness.
 Deploy model using Flask or Streamlit.
 
 #Output: 
+<img width="1908" height="861" alt="Image" src="https://github.com/user-attachments/assets/ff60b504-97de-4b46-963d-f7d06df06ff3" />
+<img width="1541" height="643" alt="Image" src="https://github.com/user-attachments/assets/633073b8-fbd6-4ac9-80a3-2be4929304f7" />
+<img width="1052" height="755" alt="Image" src="https://github.com/user-attachments/assets/59b9d047-cbea-4ce9-a518-7d571dc7c2a9" />
+<img width="1736" height="1065" alt="Image" src="https://github.com/user-attachments/assets/6adf8f31-2ac7-4d51-af5d-5e4451b8989d" />

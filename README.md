@@ -31,14 +31,14 @@ Evaluate model performance through metrics and visualizations.
 Predict and visualize sample outputs for qualitative analysis.
 
 🧰 Technologies Used
-Tool	              |      Purpose
-Python 3.x	          |      Core programming language
-TensorFlow 2.x	      |      Deep learning framework
-Keras	              |      High-level API for neural networks
-NumPy	              |      Numerical computations
-Matplotlib	          |      Visualization of training metrics
-Seaborn	              |      Confusion matrix visualization
-Scikit-Learn	      |      Confusion matrix metric
+Tool	              
+Python 3.x	          
+TensorFlow 2.x	      
+Keras	              
+NumPy	              
+Matplotlib	          
+Seaborn	              
+Scikit-Learn	      
 
 🖼️ Dataset: Fashion MNIST
 Fashion MNIST is a dataset of 28x28 grayscale images of 70,000 fashion products from 10 categories, with 7,000 images per category.
